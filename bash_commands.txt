@@ -1,0 +1,19 @@
+1. cd ../ and then cd diretory that you want to be at
+
+2. ll or ls
+
+3. PWD
+
+4. touch cookies.txt
+
+5. mkdir recipes
+
+6. mv filename
+
+7. git add filename
+
+8. git commit -m "dddddd"
+
+9. git push origin master
+
+
