@@ -1,0 +1,8 @@
+user enter the search request in the browser(using a web address which is HTTPS) , the request is sent to the server with the corresponding directory,
+DNS is delivery networking system that handles the relation between browser, server and client
+packets is the data content you routed from original to the search result
+TCP is
+client is what user requested, is the interface that's presented to user
+server handles sessions, database backend, is a place that stores all the information
+headers is what data format that your request should be
+REST is a networking cycle that browser sent request to server through matching routes, and server send back information to client side.
