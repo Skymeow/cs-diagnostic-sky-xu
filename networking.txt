@@ -6,3 +6,7 @@ client is what user requested, is the interface that's presented to user
 server handles sessions, database backend, is a place that stores all the information
 headers is what data format that your request should be
 REST is a networking cycle that browser sent request to server through matching routes, and server send back information to client side.
+
+problem 4:
+interpreted language is like script language, like javascript , it's readable and takes less run time
+compiling language is like swift , it requires code to be converted from unicode format to other format that system can understand
