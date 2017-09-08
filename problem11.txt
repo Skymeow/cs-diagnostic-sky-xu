@@ -1,0 +1,8 @@
+list  is wrapped in [], is a list of tuples, array, string, integer, float , it can have nested list inside it
+array is a set of data wrapped up in (), array can also have nested array
+
+dictionary is [key:value], each key has a value pair
+hash table is a object with key value pair
+
+tuple is a set of value with number index as key, (1:'a',2:'b')
+
